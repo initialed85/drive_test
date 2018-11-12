@@ -171,9 +171,6 @@ func main() {
 		panic(err)
 	}
 
-	// tell gossh_python not to try and toggle the non-existent (in this case) Python GIL
-	gossh_python.SetPyPy()
-
 	sessionID := gossh_python.NewRPCSession(
 		args.Host,
 		args.Username,
