@@ -1,0 +1,10 @@
+{
+  "setup_commands": [
+    "date"
+  ],
+  "cycle_commands": [
+    "uname -a",
+    "uptime",
+    "ifconfig -a"
+  ]
+}
