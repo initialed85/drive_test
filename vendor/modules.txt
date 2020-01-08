@@ -1,0 +1,17 @@
+# github.com/google/gopacket v1.1.17
+github.com/google/gopacket
+github.com/google/gopacket/pcap
+github.com/google/gopacket/layers
+# github.com/stratoberry/go-gpsd v0.0.0-20161204231141-54ddcfa61f47
+github.com/stratoberry/go-gpsd
+# golang.org/x/crypto v0.0.0-20191227163750-53104e6ec876
+golang.org/x/crypto/ssh
+golang.org/x/crypto/chacha20
+golang.org/x/crypto/curve25519
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/poly1305
+golang.org/x/crypto/internal/subtle
+golang.org/x/crypto/ed25519/internal/edwards25519
+# golang.org/x/sys v0.0.0-20190412213103-97732733099d
+golang.org/x/sys/cpu
+golang.org/x/sys/unix
